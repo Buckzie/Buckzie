@@ -15,7 +15,8 @@ I'm Ibrahim, a physics graduate with a passion for data science. I delve into th
 <a href="https://kaggle.com/buckzie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="buckzie" height="30" width="40" /></a>
 <a href="https://instagram.com/evren_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evren_ibrahim" height="30" width="40" /></a>
 </p>
-[![Email](https://example.com/mail-icon.png)](mailto:ibr.evren@gmail.com)
+
+Contact Me: [ibr.evren@gmail.com](mailto:ibr.evren@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
