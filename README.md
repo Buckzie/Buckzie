@@ -7,15 +7,7 @@ I'm Ibrahim, a physics graduate with a passion for data science. I delve into th
 - Machine Learning and Deep Learning
 - Statistical Modeling
 
-📫 **Contact**:
-- [LinkedIn] :  (www.linkedin.com/in/ibrahim-evren-063b13113)
-- [Gmail]    :  (ibr.evren@gmail.com)
-- [Kaggle]   :  (https://www.kaggle.com/buckzie)
-
 ⚡ **Hobbies**: In my spare time, I enjoy reading scientific books, outdoor activities, and coding.
-
-<h1 align="center">Hi, I'm Ibrahim Evren</h1>
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
