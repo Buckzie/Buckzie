@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Buckzie/Buckzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! 👋
 
-Here are some ideas to get you started:
+I'm Ibrahim, a physics graduate with a passion for data science. I delve into the realms of data analysis and machine learning with fervor. On this platform, I aim to contribute to the community by sharing knowledge and experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Areas of Interest**:
+- Data Analysis and Visualization
+- Machine Learning and Deep Learning
+- Statistical Modeling
+
+📫 **Contact**:
+- [LinkedIn] :  (www.linkedin.com/in/ibrahim-evren-063b13113)
+- [Gmail]    :  (ibr.evren@gmail.com)
+- [Kaggle]   :  (https://www.kaggle.com/buckzie)
+
+⚡ **Hobbies**: In my spare time, I enjoy reading scientific books, outdoor activities, and coding.
+
+🤝 **Contributions**:
+If you'd like to contribute to my projects or collaborate, I'm eagerly awaiting your pull requests!
+
+Thank you for visiting my profile! 😊
