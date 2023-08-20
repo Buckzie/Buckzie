@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hello there! 👋
-
 I'm Ibrahim, a physics graduate with a passion for data science. I delve into the realms of data analysis and machine learning with fervor. On this platform, I aim to contribute to the community by sharing knowledge and experiences.
 
 🔭 **Areas of Interest**:
